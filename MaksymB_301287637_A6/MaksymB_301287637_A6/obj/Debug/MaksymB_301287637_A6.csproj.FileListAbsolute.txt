@@ -1,0 +1,11 @@
+H:\Prog 2\MaksymB_301287637_A6\MaksymB_301287637_A6\bin\Debug\MaksymB_301287637_A6.exe.config
+H:\Prog 2\MaksymB_301287637_A6\MaksymB_301287637_A6\bin\Debug\MaksymB_301287637_A6.exe
+H:\Prog 2\MaksymB_301287637_A6\MaksymB_301287637_A6\bin\Debug\MaksymB_301287637_A6.pdb
+H:\Prog 2\MaksymB_301287637_A6\MaksymB_301287637_A6\obj\Debug\MaksymB_301287637_A6.csproj.AssemblyReference.cache
+H:\Prog 2\MaksymB_301287637_A6\MaksymB_301287637_A6\obj\Debug\MaksymB_301287637_A6.csproj.SuggestedBindingRedirects.cache
+H:\Prog 2\MaksymB_301287637_A6\MaksymB_301287637_A6\obj\Debug\MaksymB_301287637_A6.csproj.CoreCompileInputs.cache
+H:\Prog 2\MaksymB_301287637_A6\MaksymB_301287637_A6\obj\Debug\MaksymB_301287637_A6.exe
+H:\Prog 2\MaksymB_301287637_A6\MaksymB_301287637_A6\obj\Debug\MaksymB_301287637_A6.pdb
+H:\Prog 2\MaksymB_301287637_A6\MaksymB_301287637_A6\bin\Debug\Newtonsoft.Json.dll
+H:\Prog 2\MaksymB_301287637_A6\MaksymB_301287637_A6\bin\Debug\Newtonsoft.Json.xml
+H:\Prog 2\MaksymB_301287637_A6\MaksymB_301287637_A6\obj\Debug\MaksymB_301287637_A6.csproj.CopyComplete

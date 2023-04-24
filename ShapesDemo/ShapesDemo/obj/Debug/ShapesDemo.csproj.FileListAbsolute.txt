@@ -1,8 +1,0 @@
-H:\Prog 2\ShapesDemo\ShapesDemo\obj\Debug\ShapesDemo.csproj.AssemblyReference.cache
-H:\Prog 2\ShapesDemo\ShapesDemo\obj\Debug\ShapesDemo.csproj.SuggestedBindingRedirects.cache
-H:\Prog 2\ShapesDemo\ShapesDemo\obj\Debug\ShapesDemo.csproj.CoreCompileInputs.cache
-H:\Prog 2\ShapesDemo\ShapesDemo\bin\Debug\ShapesDemo.exe.config
-H:\Prog 2\ShapesDemo\ShapesDemo\bin\Debug\ShapesDemo.exe
-H:\Prog 2\ShapesDemo\ShapesDemo\bin\Debug\ShapesDemo.pdb
-H:\Prog 2\ShapesDemo\ShapesDemo\obj\Debug\ShapesDemo.exe
-H:\Prog 2\ShapesDemo\ShapesDemo\obj\Debug\ShapesDemo.pdb
