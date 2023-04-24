@@ -1,8 +1,0 @@
-H:\Prog 2\MaksymB_301287637_A7\MaksymB_301287637_A7\bin\Debug\MaksymB_301287637_A7.exe.config
-H:\Prog 2\MaksymB_301287637_A7\MaksymB_301287637_A7\bin\Debug\MaksymB_301287637_A7.exe
-H:\Prog 2\MaksymB_301287637_A7\MaksymB_301287637_A7\bin\Debug\MaksymB_301287637_A7.pdb
-H:\Prog 2\MaksymB_301287637_A7\MaksymB_301287637_A7\obj\Debug\MaksymB_301287637_A7.csproj.AssemblyReference.cache
-H:\Prog 2\MaksymB_301287637_A7\MaksymB_301287637_A7\obj\Debug\MaksymB_301287637_A7.csproj.SuggestedBindingRedirects.cache
-H:\Prog 2\MaksymB_301287637_A7\MaksymB_301287637_A7\obj\Debug\MaksymB_301287637_A7.csproj.CoreCompileInputs.cache
-H:\Prog 2\MaksymB_301287637_A7\MaksymB_301287637_A7\obj\Debug\MaksymB_301287637_A7.exe
-H:\Prog 2\MaksymB_301287637_A7\MaksymB_301287637_A7\obj\Debug\MaksymB_301287637_A7.pdb
