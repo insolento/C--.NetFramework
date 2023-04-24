@@ -1,0 +1,6 @@
+H:\Prog 2\MBezverkhnii_301287637\MBezverkhnii_301287637\obj\Debug\MBezverkhnii_301287637.csproj.CoreCompileInputs.cache
+H:\Prog 2\MBezverkhnii_301287637\MBezverkhnii_301287637\bin\Debug\MBezverkhnii_301287637.exe.config
+H:\Prog 2\MBezverkhnii_301287637\MBezverkhnii_301287637\bin\Debug\MBezverkhnii_301287637.exe
+H:\Prog 2\MBezverkhnii_301287637\MBezverkhnii_301287637\bin\Debug\MBezverkhnii_301287637.pdb
+H:\Prog 2\MBezverkhnii_301287637\MBezverkhnii_301287637\obj\Debug\MBezverkhnii_301287637.exe
+H:\Prog 2\MBezverkhnii_301287637\MBezverkhnii_301287637\obj\Debug\MBezverkhnii_301287637.pdb
