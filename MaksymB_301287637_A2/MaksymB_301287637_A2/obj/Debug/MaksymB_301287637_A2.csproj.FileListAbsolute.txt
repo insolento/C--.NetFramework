@@ -1,0 +1,8 @@
+H:\Programming\MaksymB_301287637_A2\MaksymB_301287637_A2\obj\Debug\MaksymB_301287637_A2.csproj.AssemblyReference.cache
+H:\Programming\MaksymB_301287637_A2\MaksymB_301287637_A2\obj\Debug\MaksymB_301287637_A2.csproj.SuggestedBindingRedirects.cache
+H:\Programming\MaksymB_301287637_A2\MaksymB_301287637_A2\obj\Debug\MaksymB_301287637_A2.csproj.CoreCompileInputs.cache
+H:\Programming\MaksymB_301287637_A2\MaksymB_301287637_A2\bin\Debug\MaksymB_301287637_A2.exe.config
+H:\Programming\MaksymB_301287637_A2\MaksymB_301287637_A2\bin\Debug\MaksymB_301287637_A2.exe
+H:\Programming\MaksymB_301287637_A2\MaksymB_301287637_A2\bin\Debug\MaksymB_301287637_A2.pdb
+H:\Programming\MaksymB_301287637_A2\MaksymB_301287637_A2\obj\Debug\MaksymB_301287637_A2.exe
+H:\Programming\MaksymB_301287637_A2\MaksymB_301287637_A2\obj\Debug\MaksymB_301287637_A2.pdb
