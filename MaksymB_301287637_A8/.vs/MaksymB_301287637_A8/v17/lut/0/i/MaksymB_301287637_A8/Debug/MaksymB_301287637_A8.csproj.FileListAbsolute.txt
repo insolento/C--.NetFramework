@@ -1,7 +1,0 @@
-H:\Prog 2\MaksymB_301287637_A8\.vs\MaksymB_301287637_A8\v17\lut\0\b\MaksymB_301287637_A8\bin\Debug\MaksymB_301287637_A8.exe.config
-H:\Prog 2\MaksymB_301287637_A8\.vs\MaksymB_301287637_A8\v17\lut\0\b\MaksymB_301287637_A8\bin\Debug\MaksymB_301287637_A8.exe
-H:\Prog 2\MaksymB_301287637_A8\.vs\MaksymB_301287637_A8\v17\lut\0\i\MaksymB_301287637_A8\Debug\MaksymB_301287637_A8.csproj.AssemblyReference.cache
-H:\Prog 2\MaksymB_301287637_A8\.vs\MaksymB_301287637_A8\v17\lut\0\i\MaksymB_301287637_A8\Debug\MaksymB_301287637_A8.csproj.SuggestedBindingRedirects.cache
-H:\Prog 2\MaksymB_301287637_A8\.vs\MaksymB_301287637_A8\v17\lut\0\i\MaksymB_301287637_A8\Debug\MaksymB_301287637_A8.csproj.CoreCompileInputs.cache
-H:\Prog 2\MaksymB_301287637_A8\.vs\MaksymB_301287637_A8\v17\lut\0\i\MaksymB_301287637_A8\Debug\MaksymB_301287637_A8.csproj.CopyComplete
-H:\Prog 2\MaksymB_301287637_A8\.vs\MaksymB_301287637_A8\v17\lut\0\i\MaksymB_301287637_A8\Debug\MaksymB_301287637_A8.exe

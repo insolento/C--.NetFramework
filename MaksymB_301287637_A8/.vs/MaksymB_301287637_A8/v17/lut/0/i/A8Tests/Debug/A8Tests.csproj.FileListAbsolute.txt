@@ -1,9 +1,0 @@
-H:\Prog 2\MaksymB_301287637_A8\.vs\MaksymB_301287637_A8\v17\lut\0\b\A8Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-H:\Prog 2\MaksymB_301287637_A8\.vs\MaksymB_301287637_A8\v17\lut\0\b\A8Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-H:\Prog 2\MaksymB_301287637_A8\.vs\MaksymB_301287637_A8\v17\lut\0\b\A8Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-H:\Prog 2\MaksymB_301287637_A8\.vs\MaksymB_301287637_A8\v17\lut\0\b\A8Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
-H:\Prog 2\MaksymB_301287637_A8\.vs\MaksymB_301287637_A8\v17\lut\0\b\A8Tests\bin\Debug\A8Tests.dll
-H:\Prog 2\MaksymB_301287637_A8\.vs\MaksymB_301287637_A8\v17\lut\0\i\A8Tests\Debug\A8Tests.csproj.AssemblyReference.cache
-H:\Prog 2\MaksymB_301287637_A8\.vs\MaksymB_301287637_A8\v17\lut\0\i\A8Tests\Debug\A8Tests.csproj.CoreCompileInputs.cache
-H:\Prog 2\MaksymB_301287637_A8\.vs\MaksymB_301287637_A8\v17\lut\0\i\A8Tests\Debug\A8Tests.csproj.CopyComplete
-H:\Prog 2\MaksymB_301287637_A8\.vs\MaksymB_301287637_A8\v17\lut\0\i\A8Tests\Debug\A8Tests.dll

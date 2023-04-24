@@ -1,6 +1,0 @@
-C:\Users\MaksymB_301287637_A8\MaksymB_301287637_A8\FractionLibrary\bin\Debug\FractionLibrary.dll
-C:\Users\MaksymB_301287637_A8\MaksymB_301287637_A8\FractionLibrary\bin\Debug\FractionLibrary.pdb
-C:\Users\MaksymB_301287637_A8\MaksymB_301287637_A8\FractionLibrary\obj\Debug\FractionLibrary.csproj.AssemblyReference.cache
-C:\Users\MaksymB_301287637_A8\MaksymB_301287637_A8\FractionLibrary\obj\Debug\FractionLibrary.csproj.CoreCompileInputs.cache
-C:\Users\MaksymB_301287637_A8\MaksymB_301287637_A8\FractionLibrary\obj\Debug\FractionLibrary.dll
-C:\Users\MaksymB_301287637_A8\MaksymB_301287637_A8\FractionLibrary\obj\Debug\FractionLibrary.pdb
