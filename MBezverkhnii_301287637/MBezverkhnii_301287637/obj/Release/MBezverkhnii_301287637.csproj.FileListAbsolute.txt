@@ -1,7 +1,0 @@
-H:\Prog 2\MBezverkhnii_301287637\MBezverkhnii_301287637\bin\Release\MBezverkhnii_301287637.exe.config
-H:\Prog 2\MBezverkhnii_301287637\MBezverkhnii_301287637\bin\Release\MBezverkhnii_301287637.exe
-H:\Prog 2\MBezverkhnii_301287637\MBezverkhnii_301287637\bin\Release\MBezverkhnii_301287637.pdb
-H:\Prog 2\MBezverkhnii_301287637\MBezverkhnii_301287637\obj\Release\MBezverkhnii_301287637.csprojAssemblyReference.cache
-H:\Prog 2\MBezverkhnii_301287637\MBezverkhnii_301287637\obj\Release\MBezverkhnii_301287637.csproj.CoreCompileInputs.cache
-H:\Prog 2\MBezverkhnii_301287637\MBezverkhnii_301287637\obj\Release\MBezverkhnii_301287637.exe
-H:\Prog 2\MBezverkhnii_301287637\MBezverkhnii_301287637\obj\Release\MBezverkhnii_301287637.pdb
