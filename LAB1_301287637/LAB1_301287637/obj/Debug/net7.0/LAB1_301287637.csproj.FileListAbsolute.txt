@@ -1,0 +1,15 @@
+/Users/maks/Desktop/Programming/LAB1_301287637/LAB1_301287637/obj/Debug/net7.0/LAB1_301287637.csproj.AssemblyReference.cache
+/Users/maks/Desktop/Programming/LAB1_301287637/LAB1_301287637/obj/Debug/net7.0/LAB1_301287637.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maks/Desktop/Programming/LAB1_301287637/LAB1_301287637/obj/Debug/net7.0/LAB1_301287637.AssemblyInfoInputs.cache
+/Users/maks/Desktop/Programming/LAB1_301287637/LAB1_301287637/obj/Debug/net7.0/LAB1_301287637.AssemblyInfo.cs
+/Users/maks/Desktop/Programming/LAB1_301287637/LAB1_301287637/obj/Debug/net7.0/LAB1_301287637.csproj.CoreCompileInputs.cache
+/Users/maks/Desktop/Programming/LAB1_301287637/LAB1_301287637/bin/Debug/net7.0/LAB1_301287637
+/Users/maks/Desktop/Programming/LAB1_301287637/LAB1_301287637/bin/Debug/net7.0/LAB1_301287637.deps.json
+/Users/maks/Desktop/Programming/LAB1_301287637/LAB1_301287637/bin/Debug/net7.0/LAB1_301287637.runtimeconfig.json
+/Users/maks/Desktop/Programming/LAB1_301287637/LAB1_301287637/bin/Debug/net7.0/LAB1_301287637.dll
+/Users/maks/Desktop/Programming/LAB1_301287637/LAB1_301287637/bin/Debug/net7.0/LAB1_301287637.pdb
+/Users/maks/Desktop/Programming/LAB1_301287637/LAB1_301287637/obj/Debug/net7.0/LAB1_301287637.dll
+/Users/maks/Desktop/Programming/LAB1_301287637/LAB1_301287637/obj/Debug/net7.0/refint/LAB1_301287637.dll
+/Users/maks/Desktop/Programming/LAB1_301287637/LAB1_301287637/obj/Debug/net7.0/LAB1_301287637.pdb
+/Users/maks/Desktop/Programming/LAB1_301287637/LAB1_301287637/obj/Debug/net7.0/LAB1_301287637.genruntimeconfig.cache
+/Users/maks/Desktop/Programming/LAB1_301287637/LAB1_301287637/obj/Debug/net7.0/ref/LAB1_301287637.dll
